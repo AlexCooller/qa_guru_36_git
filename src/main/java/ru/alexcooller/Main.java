@@ -3,7 +3,8 @@ package ru.alexcooller;
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
-    private static String msg = "Hello qa.guru!!!";
+    
+    private static String msg = "Hello conflict qa.guru!";
     public static void main(String... args) {
 
         
